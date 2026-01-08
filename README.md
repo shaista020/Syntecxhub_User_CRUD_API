@@ -27,23 +27,23 @@ It implements a **RESTful API** with full CRUD operations for managing a **User*
 - **Postman** – API testing  
 
 ---
-
 ## 📁 Project Structure
 
+
 Syntecxhub_User_CRUD_API/
-│  
 ├── config/
-│   └── db.js # MongoDB connection setup
+│ └── db.js # MongoDB connection setup
 ├── controllers/
-│   └── userController.js # CRUD logic for User
+│ └── userController.js # CRUD logic for User
 ├── models/
-│   └── User.js # User schema
+│ └── User.js # User schema
 ├── routes/
-│   └── userRoutes.js # API routes
+│ └── userRoutes.js # API routes
 ├── server.js # Entry point
 ├── package.json
 ├── .env.example # Example environment variables
 └── screenshots/ # Postman test screenshots
+
 
 
 ---
@@ -77,13 +77,13 @@ http://localhost:5000/api/users
 ### 📸 Screenshots
 
 **Create User (POST)**  
-![Create User](Screenshots/create_user.png)
+![Create User](screenshots/create_user.png)
 
 **Get Users (GET)**  
-![Get Users](Screenshots/get_users.png)
+![Get Users](screenshots/get_users.png)
 
 **Update User (PUT)**  
-![Update User](Screenshots/update_user.png)
+![Update User](screenshots/update_user.png)
 
 **Delete User (DELETE)**  
-![Delete User](Screenshots/delete_user.png)
+![Delete User](screenshots/delete_user.png)
