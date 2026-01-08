@@ -74,8 +74,8 @@ API is now running at:
 
 http://localhost:5000/api/users
 
- 
 ### 📸 Screenshots
+
 **Create User (POST)**  
 ![Create User](https://raw.githubusercontent.com/shaista020/Syntecxhub_User_CRUD_API/main/screenshots/create_user.png)
 
