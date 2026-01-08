@@ -28,23 +28,23 @@ It implements a **RESTful API** with full CRUD operations for managing a **User*
 
 ---
 ## 📁 Project Structure
-
+``` bash
 
 Syntecxhub_User_CRUD_API/
 ├── config/
-│ └── db.js # MongoDB connection setup
+│ └── db.js  
 ├── controllers/
-│ └── userController.js # CRUD logic for User
+│ └── userController.js  
 ├── models/
-│ └── User.js # User schema
+│ └── User.js  
 ├── routes/
-│ └── userRoutes.js # API routes
-├── server.js # Entry point
+│ └── userRoutes.js  
+├── server.js  
 ├── package.json
-├── .env.example # Example environment variables
-└── screenshots/ # Postman test screenshots
+├── .env.example  
+└── screenshots/  
 
-
+```
 
 ---
 
@@ -86,5 +86,5 @@ http://localhost:5000/api/users
 ![Update User](screenshots/update_user.png)
 
 **Delete User (DELETE)**  
-![Delete User](<img width="954" height="584" alt="image" src="https://github.com/user-attachments/assets/346c28e0-6e82-412f-853a-1d01433da035" />
+![Delete User](screenshots/delete_user.png>
 )
