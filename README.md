@@ -76,16 +76,14 @@ http://localhost:5000/api/users
 
  
 ### 📸 Screenshots
-
 **Create User (POST)**  
-![Create User](screenshots/create_user.png)
+![Create User](https://raw.githubusercontent.com/shaista020/Syntecxhub_User_CRUD_API/main/screenshots/create_user.png)
 
 **Get Users (GET)**  
-![Get Users](screenshots/get_users.png)
+![Get Users](https://raw.githubusercontent.com/shaista020/Syntecxhub_User_CRUD_API/main/screenshots/get_users.png)
 
 **Update User (PUT)**  
-![Update User](screenshots/update_user.png)
+![Update User](https://raw.githubusercontent.com/shaista020/Syntecxhub_User_CRUD_API/main/screenshots/update_user.png)
 
 **Delete User (DELETE)**  
-![Delete User](screenshots/delete_user.png)
-
+![Delete User](https://raw.githubusercontent.com/shaista020/Syntecxhub_User_CRUD_API/main/screenshots/delete_user.png)
