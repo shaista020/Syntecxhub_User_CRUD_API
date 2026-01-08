@@ -86,4 +86,5 @@ http://localhost:5000/api/users
 ![Update User](screenshots/update_user.png)
 
 **Delete User (DELETE)**  
-![Delete User](screenshots/delete_user.png)
+![Delete User](<img width="954" height="584" alt="image" src="https://github.com/user-attachments/assets/346c28e0-6e82-412f-853a-1d01433da035" />
+)
